@@ -1,0 +1,129 @@
+[     
+    {
+        "id" : 1,
+        "name" : "khushali",
+        "gender" : "female",
+        "email" : "kk@gmail.com",
+        "phone" : "7894561230"
+      }, {
+        "id" : 2,
+        "name" : "avni",
+        "gender" : "female",
+        "email" : "qw@gmail.com",
+        "phone" : "7657661230"
+      }, {
+        "id" : 3,
+        "name" : "user3",
+        "gender" : "male",
+        "email" : "ty@gmail.com",
+        "phone" : "78942332130"
+      }, {
+        "id" : 4,
+        "name" : "user4",
+        "gender" : "female",
+        "email" : "kk@gmail.com",
+        "phone" : "7894561230"
+      }, {
+        "id" : 5,
+        "name" : "user5",
+        "gender" : "female",
+        "email" : "kk@gmail.com",
+        "phone" : "7894561230"
+      }, {
+        "id" : 6,
+        "name" : "user6",
+        "gender" : "male",
+        "email" : "kk@gmail.com",
+        "phone" : "7894561230"
+      }, {
+        "id" : 7,
+        "name" : "user7",
+        "gender" : "female",
+        "email" : "kk@gmail.com",
+        "phone" : "7894561230"
+      }, {
+        "id" : 8,
+        "name" : "user8",
+        "gender" : "female",
+        "email" : "pk@gmail.com",
+        "phone" : "7894561230"
+      }, {
+        "id" : 9,
+        "name" : "user9",
+        "gender" : "female",
+        "email" : "pk@gmail.com",
+        "phone" : "7894563230"
+      }, {
+        "id" : 10,
+        "name" : "user10",
+        "gender" : "female",
+        "email" : "pk@gmail.com",
+        "phone" : "7845452230"
+      }, {
+        "id" : 11,
+        "name" : "user11",
+        "gender" : "female",
+        "email" : "kk@gmail.com",
+        "phone" : "7894561230"
+      }, {
+        "id" : 12,
+        "name" : "user12",
+        "gender" : "female",
+        "email" : "qw@gmail.com",
+        "phone" : "7657661230"
+      }, {
+        "id" : 13,
+        "name" : "user13",
+        "gender" : "male",
+        "email" : "ty@gmail.com",
+        "phone" : "78942332130"
+      }, {
+        "id" : 14,
+        "name" : "user14",
+        "gender" : "female",
+        "email" : "kk@gmail.com",
+        "phone" : "7894561230"
+      }, {
+        "id" : 15,
+        "name" : "user15",
+        "gender" : "female",
+        "email" : "kk@gmail.com",
+        "phone" : "7894561230"
+      }, {
+        "id" : 16,
+        "name" : "user16",
+        "gender" : "male",
+        "email" : "kk@gmail.com",
+        "phone" : "7894561230"
+      }, {
+        "id" : 17,
+        "name" : "user17",
+        "gender" : "female",
+        "email" : "kk@gmail.com",
+        "phone" : "7894561230"
+      }, {
+        "id" : 18,
+        "name" : "user18",
+        "gender" : "female",
+        "email" : "pk@gmail.com",
+        "phone" : "7894561230"
+      }, {
+        "id" : 19,
+        "name" : "user19",
+        "gender" : "female",
+        "email" : "pk@gmail.com",
+        "phone" : "7894563230"
+      }, {
+        "id" : 20,
+        "name" : "user20",
+        "gender" : "female",
+        "email" : "pk@gmail.com",
+        "phone" : "7845452230"
+      }, {
+        "id": 21,
+        "name": "user21",
+        "gender": "male",
+        "email": "pk@gmail.com",
+        "phone": "7657661230"
+      }
+]
